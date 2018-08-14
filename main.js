@@ -47,7 +47,7 @@ module.exports = "<!--The content below is only a placeholder and can be replace
 
 /***/ "./src/app/app.component.ts":
 /*!**********************************!*\
-  !*** ./src/app/app.component.ts ***!
+  !*** ./src/app/app.component.ts ***!!!
   \**********************************/
 /*! exports provided: AppComponent */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {

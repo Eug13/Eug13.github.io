@@ -2,7 +2,7 @@
 
 /***/ "./node_modules/core-js/es7/reflect.js":
 /*!*********************************************!*\
-  !*** ./node_modules/core-js/es7/reflect.js ***!
+  !*** ./node_modules/core-js/es7/reflect.js ***!!!
   \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
